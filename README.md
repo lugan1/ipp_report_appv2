@@ -6,7 +6,7 @@
 
 ## 실기화면
 
-<img src ="https://user-images.githubusercontent.com/39528583/131818301-e7ee7953-9eda-434a-8d39-627b4bddf094.png" height=500 width=500>
+<img src ="https://user-images.githubusercontent.com/39528583/131818301-e7ee7953-9eda-434a-8d39-627b4bddf094.png" height=300 width=150>
 
 ![Capture+_2018-11-28-14-02-52](https://user-images.githubusercontent.com/39528583/131818301-e7ee7953-9eda-434a-8d39-627b4bddf094.png)
 ![Capture+_2018-11-28-14-03-21](https://user-images.githubusercontent.com/39528583/131818307-2b53a8a1-370b-4eb6-96d1-fa322a228141.png)
