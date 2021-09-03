@@ -6,8 +6,8 @@
 
 ## 실기화면
 
-<div style="margin= 3px 3px 3px 3px;"
-<img src ="https://user-images.githubusercontent.com/39528583/131818301-e7ee7953-9eda-434a-8d39-627b4bddf094.png" height=300 width=180 align="left">
+<div style="margin= 3px 3px 3px 3px;">
+<img src ="https://user-images.githubusercontent.com/39528583/131818301-e7ee7953-9eda-434a-8d39-627b4bddf094.png" height=300 width=180 align="left" margin=3px 3px 3px 3px;>
 <img src ="https://user-images.githubusercontent.com/39528583/131818307-2b53a8a1-370b-4eb6-96d1-fa322a228141.png" height=300 width=180 align="left">
 <img src ="https://user-images.githubusercontent.com/39528583/131818309-bf38028d-588c-4e57-9376-88b43ced0678.png" height=300 width=180 align="left">
 <img src ="https://user-images.githubusercontent.com/39528583/131818310-42afd226-069a-422f-ada1-e5891ba8fa63.png" height=300 width=180 align="left">
