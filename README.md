@@ -1,5 +1,6 @@
 # ipp_report_appv2
 4 channel senser app
+- retrofit , mpchart 사용
 
 </br>
 </br>
