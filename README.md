@@ -6,6 +6,7 @@
 
 ## 실기화면
 
+<div style="margin= 3px 3px 3px 3px;"
 <img src ="https://user-images.githubusercontent.com/39528583/131818301-e7ee7953-9eda-434a-8d39-627b4bddf094.png" height=300 width=180 align="left">
 <img src ="https://user-images.githubusercontent.com/39528583/131818307-2b53a8a1-370b-4eb6-96d1-fa322a228141.png" height=300 width=180 align="left">
 <img src ="https://user-images.githubusercontent.com/39528583/131818309-bf38028d-588c-4e57-9376-88b43ced0678.png" height=300 width=180 align="left">
@@ -21,7 +22,7 @@
 <img src ="https://user-images.githubusercontent.com/39528583/131818354-6058f368-d511-4a08-b14f-2730eeaa2b5a.png" height=300 width=180 align="left">
 <img src ="https://user-images.githubusercontent.com/39528583/131818358-b041aa18-68f2-4a78-8aca-6e892abd1888.png" height=300 width=180 align="left">
 <img src ="https://user-images.githubusercontent.com/39528583/131818362-c2585e73-778e-4bda-95cb-5a315cd8ded3.png" height=300 width=180 align="left">
-
+</div>
 
 <img src ="https://user-images.githubusercontent.com/39528583/131820032-721c34ff-d04a-413d-a905-a91e2ae93c53.png" height=300 width=180 align="left">
 <img src ="https://user-images.githubusercontent.com/39528583/131820040-75691332-1b4e-467b-b66c-74b0e7e7b369.png" height=300 width=180 align="left">
