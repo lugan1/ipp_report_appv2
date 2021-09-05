@@ -1,6 +1,6 @@
 # ipp_report_appv2
 - 4 channel BLE senser app
-- retrofit , mpchart 사용
+- retrofit 사용
 
 </br>
 </br>
