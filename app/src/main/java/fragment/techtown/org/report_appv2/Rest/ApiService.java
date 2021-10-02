@@ -10,7 +10,7 @@ import retrofit2.http.POST;
 
 public interface ApiService {
     // API Gateway Stage URL
-    public static final String API_URL = "http://api.ifitness.pe.kr:4662/";
+    public static final String API_URL = "http://api.test:8080/";
 
     @FormUrlEncoded
     @POST("SignUp")
